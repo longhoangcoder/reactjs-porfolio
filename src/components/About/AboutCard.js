@@ -10,7 +10,21 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Ly Hoang Long </span>
             from <span className="purple"> HoChiMinh, Vietnam.</span>
-            <br />I am a junior information technology industry in HCMUE
+            <br />I am a junior{" "}
+            <span className="purple">Information Technology industry</span> in
+            HCMUE
+            <br />
+            I'm passionate about Mobile Application
+            <br /> I like automating things, building mobile application with
+            all the knowledge acquired at school such as programming basics and
+            algorithms
+            <br />
+            as well as learning basic languages such as:{" "}
+            <span className="purple">Html, Css, Javascript,....</span> and more
+            research from <span className="purple">mobile application</span> to
+            apply in practice, exploring scalability problems and improving
+            efficiency and performance. Apart from coding, some other activities
+            that I love to do!
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
