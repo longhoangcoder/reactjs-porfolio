@@ -23,8 +23,7 @@ function AboutCard() {
             <span className="purple">Html, Css, Javascript,....</span> and more
             research from <span className="purple">mobile application</span> to
             apply in practice, exploring scalability problems and improving
-            efficiency and performance. Apart from coding, some other activities
-            that I love to do!
+            efficiency and performance.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
